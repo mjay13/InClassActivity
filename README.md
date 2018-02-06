@@ -1,3 +1,1 @@
-# InClassActivity
-
-This is the readMe for the in class activity
+a quick run through of the html needed for contact info
